@@ -7,4 +7,4 @@
 
 React Hooks for Ethereum
 
-[Quick Start](https://wagmi.sh/docs/getting-started) – [Docs](https://wagmi.sh) – [Twitter](https://twitter.com/wagmi_sh)
+[Quick Start](https://wagmi.sh/docs/getting-started) – [Docs](https://wagmi.sh) – [Twitter](https://twitter.com/wagmi_sh) – [Gitcoin](https://gitcoin.co/grants/4493/wagmi-react-hooks-library-for-ethereum)
