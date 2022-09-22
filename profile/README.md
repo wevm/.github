@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  React Hooks for Ethereum
+  JavaScript and TypeScript Interfaces for Ethereum
 <p>
 
 <div align="center">
