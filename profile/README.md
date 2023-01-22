@@ -13,5 +13,5 @@
   <a href="https://wagmi.sh/docs/getting-started">Quick Start</a> –
   <a href="https://wagmi.sh">Docs</a> –
   <a href="https://twitter.com/wagmi_sh">Twitter</a> –
-  <a href="https://gitcoin.co/grants/4493/wagmi-react-hooks-library-for-ethereum">Gitcoin</a>
+  <a href="https://wagmi.sh/gitcoin">Gitcoin</a>
 </div>
