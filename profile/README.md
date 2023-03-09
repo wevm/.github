@@ -10,8 +10,9 @@
 <p>
 
 <div align="center">
-  <a href="https://wagmi.sh/docs/getting-started">Quick Start</a> –
-  <a href="https://wagmi.sh">Docs</a> –
+  <a href="https://wagmi.sh">wagmi</a> –
+  <a href="https://viem.sh">viem</a> –
+  <a href="https://abitype.dev">ABIType</a> –
   <a href="https://twitter.com/wagmi_sh">Twitter</a> –
   <a href="https://github.com/sponsors/wagmi-dev">Sponsor</a>
 </div>
