@@ -10,9 +10,12 @@
 <p>
 
 <div align="center">
-  <a href="https://wagmi.sh">wagmi</a> –
-  <a href="https://viem.sh">viem</a> –
-  <a href="https://abitype.dev">ABIType</a> –
-  <a href="https://twitter.com/wagmi_sh">Twitter</a> –
-  <a href="https://github.com/sponsors/wagmi-dev">Sponsor</a>
+  <a href="https://wagmi.sh"><b>wagmi</b></a> –
+  <a href="https://viem.sh"><b>viem</b></a> –
+  <a href="https://abitype.dev"><b>abitype</b></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sponsors/wagmi-dev"><b>Sponsor</b></a> ~
+  <a href="https://twitter.com/wagmi_sh"><b>Follow on Twitter</b></a>
 </div>
