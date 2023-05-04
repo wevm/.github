@@ -12,7 +12,8 @@
 <div align="center">
   <a href="https://wagmi.sh"><b>wagmi</b></a> –
   <a href="https://viem.sh"><b>viem</b></a> –
-  <a href="https://abitype.dev"><b>abitype</b></a>
+  <a href="https://abitype.dev"><b>abitype</b></a> –
+  <a href="https://github.com/wagmi-dev/anvil.js"><b>anvil.js</b></a>
 </div>
 
 <div align="center">
