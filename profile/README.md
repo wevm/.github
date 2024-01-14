@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sponsors/wagmi"><b>Sponsor</b></a> ~
+  <a href="https://github.com/sponsors/wevm"><b>Sponsor</b></a> ~
   <a href="https://twitter.com/wevm_dev"><b>Follow on Twitter</b></a>
 </div>
