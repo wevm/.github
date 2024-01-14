@@ -13,7 +13,7 @@
   <a href="https://wagmi.sh"><b>wagmi</b></a> –
   <a href="https://viem.sh"><b>viem</b></a> –
   <a href="https://abitype.dev"><b>abitype</b></a> –
-  <a href="https://github.com/wagmi/anvil.js"><b>anvil.js</b></a>
+  <a href="https://github.com/wevm/anvil.js"><b>anvil.js</b></a>
 </div>
 
 <div align="center">
