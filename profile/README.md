@@ -29,6 +29,10 @@
       <td>Minimal Documentation Framework, powered by React + Vite.</td>
     </tr>
     <tr align="left">
+      <td><a href="https://frog.fm"><b>Frog</b></a></td>
+      <td>Framework for Farcaster Frames 🐸</td>
+    </tr>
+    <tr align="left">
       <td><a href="https://abitype.dev"><b>ABIType</b></a></td>
       <td>Strict TypeScript types for Ethereum ABIs.</td>
     </tr>
