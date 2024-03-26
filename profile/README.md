@@ -11,8 +11,10 @@
         <i>TypeScript tooling for Ethereum</i>
         <div>
           <a href="https://github.com/sponsors/wevm"><b>Sponsor</b></a> ~
-          <a href="https://twitter.com/wevm_dev"><b>Twitter</b></a> ~
-          <a href="https://discord.gg/NYNac7tUkC"><b>Discord</b></a>
+          <a href="https://twitter.com/wevm_dev"><b>X</b></a> ~
+          <a href="https://warpcast.com/wevm"><b>Warpcast</b></a> ~
+          <a href="https://discord.gg/NYNac7tUkC"><b>Discord</b></a> ~
+          <a href="https://github.com/orgs/wevm/repositories"><b>All Repos</b></a>
         </div>
       </td>
     </tr>
@@ -27,10 +29,6 @@
     <tr align="left">
       <td><a href="https://vocs.dev"><b>Vocs</b></a></td>
       <td>Minimal Documentation Framework, powered by React + Vite.</td>
-    </tr>
-    <tr align="left">
-      <td><a href="https://frog.fm"><b>Frog</b></a></td>
-      <td>Framework for Farcaster Frames 🐸</td>
     </tr>
     <tr align="left">
       <td><a href="https://abitype.dev"><b>ABIType</b></a></td>
