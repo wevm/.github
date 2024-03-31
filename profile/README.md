@@ -8,13 +8,11 @@
         </picture>
       </td>
       <td>
-        <i>TypeScript tooling for Ethereum</i>
+        <i>TypeScript tools for Ethereum</i>
         <div>
           <a href="https://github.com/sponsors/wevm"><b>Sponsor</b></a> ~
           <a href="https://twitter.com/wevm_dev"><b>X</b></a> ~
-          <a href="https://warpcast.com/wevm"><b>Warpcast</b></a> ~
-          <a href="https://discord.gg/NYNac7tUkC"><b>Discord</b></a> ~
-          <a href="https://github.com/orgs/wevm/repositories"><b>All Repos</b></a>
+          <a href="https://warpcast.com/wevm"><b>Warpcast</b></a>
         </div>
       </td>
     </tr>
