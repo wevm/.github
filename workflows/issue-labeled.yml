@@ -1,0 +1,32 @@
+name: Issue Labeled
+
+on:
+  workflow_call:
+    inputs:
+      needs_reproduction_body:
+        description: "The message to post when the issue is labeled with `needs reproduction`"
+        default: |
+          Hello @${{ github.event.issue.user.login }}. 
+
+          Please provide a [minimal reproduction](https://stackoverflow.com/help/minimal-reproducible-example) using [StackBlitz](https://stackblitz.com), [TypeScript Playground](https://www.typescriptlang.org/play) (for type issues), or a separate minimal GitHub repository.
+
+          Minimal reproductions are required as they save us a lot of time reproducing your config/environment and issue ([Why?](https://antfu.me/posts/why-reproductions-are-required)).
+
+          Once a minimal reproduction is added, a team member will confirm it works, then re-open the issue.
+        required: false
+        type: string
+
+jobs:
+  issue-labeled:
+    if: github.repository_owner == 'wevm'
+    runs-on: ubuntu-latest
+    steps:
+      - name: needs reproduction
+        if: github.event.label.name == 'needs reproduction'
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: "create-comment, close-issue"
+          body: ${{ inputs.repro_message_content }}
+          close-reason: "not_planned"
+          issue-number: ${{ github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
