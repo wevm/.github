@@ -25,6 +25,10 @@
       <td>Reactivity for Ethereum apps.</td>
     </tr>
     <tr align="left">
+      <td><a href="https://oxlib.sh"><b>Ox</b></a></td>
+      <td>Standard Library for Ethereum.</td>
+    </tr>
+    <tr align="left">
       <td><a href="https://vocs.dev"><b>Vocs</b></a></td>
       <td>Minimal Documentation Framework, powered by React + Vite.</td>
     </tr>
